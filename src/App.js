@@ -29,7 +29,7 @@ const App = () => {
                   >
                    <hr />
                 </Section>
-                    )
+                     )
 
                 }
                 )
